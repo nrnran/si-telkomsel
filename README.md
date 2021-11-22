@@ -12,7 +12,7 @@ Maka dari itu PT. Telkomsel divisi RAN and Transport Operation memerlukan sebuah
 
 Menggunakan Analisis Cause and Effect dan metode PIECES Framework untuk memenuhi kebutuhan user.
 
-Output berupa sistem yang memilki login user, dashboard, dan dapat menampilkan pencarian data.
+Output berupa sistem yang menampilkan dashboard berisi database linkroute dan dapat menampilkan pencarian data.
 
 Databse tidak diupload karena corporate confidential.
 
